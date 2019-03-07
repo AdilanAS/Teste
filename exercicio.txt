@@ -1,0 +1,5 @@
+Remova uma linha de um aquivo
+Adicione uma nova linha no mesmo arquivo
+Adicione um novo arquivo com pelo menos uma linha
+Faça o commit e o push das Alterações 
+Veja as diferenças do commit pelo GitHub
